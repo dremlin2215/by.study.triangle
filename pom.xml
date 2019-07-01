@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>task1.triangle</groupId>
-    <artifactId>by.minsk.epamweb.triangle</artifactId>
+    <artifactId>by.study.triangle</artifactId>
     <version>1.0-SNAPSHOT</version>
     <build>
         <plugins>
